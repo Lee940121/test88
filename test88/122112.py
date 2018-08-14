@@ -1,1 +1,1 @@
-print fasfasfa
+print "hello"
